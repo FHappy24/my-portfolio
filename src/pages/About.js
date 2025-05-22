@@ -26,7 +26,7 @@ const About = () => {
     <div>
       <h1>About Me</h1>
       <img
-        src={`${process.env.PUBLIC_URL}/me.jpeg`}
+        src={`${process.env.PUBLIC_URL}/images/me.jpeg`}
         alt="My photo"
         style={{ width: '200px', borderRadius: '50%' }}
       />
@@ -34,7 +34,7 @@ const About = () => {
         Hi, I’m Farzana Akter Happy. I’m studying Software Engineering Technology at Centennial College...
       </p>
       <a
-        href={`${process.env.PUBLIC_URL}/resume.pdf`}
+        href={`${process.env.PUBLIC_URL}/images/resume.pdf`}
         download
         target="_blank"
         rel="noopener noreferrer"

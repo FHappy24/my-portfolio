@@ -43,7 +43,7 @@ const Projects = () => {
       <div>
         <h3>Project 1: Student Portal</h3>
         <img
-          src={`${process.env.PUBLIC_URL}/project1.png`}
+          src={`${process.env.PUBLIC_URL}/images/project1.png`}
           alt="Project 1"
           width="300"
         />
@@ -53,7 +53,7 @@ const Projects = () => {
       <div>
         <h3>Project 2: HR Management System</h3>
         <img
-          src={`${process.env.PUBLIC_URL}/project2.png`}
+          src={`${process.env.PUBLIC_URL}/images/project2.png`}
           alt="Project 2"
           width="300"
         />
@@ -63,7 +63,7 @@ const Projects = () => {
       <div>
         <h3>Project 3: Portfolio Site</h3>
         <img
-          src={`${process.env.PUBLIC_URL}/project3.png`}
+          src={`${process.env.PUBLIC_URL}/images/project3.png`}
           alt="Project 3"
           width="300"
         />

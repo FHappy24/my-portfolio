@@ -38,7 +38,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="logo-container">
         {/* Updated image path to work on GitHub Pages */}
-        <img src={`${process.env.PUBLIC_URL}/logo.png`} alt="Logo" className="logo" />
+        <img src={`${process.env.PUBLIC_URL}/images/logo.png`} alt="Logo" className="logo" />
         <span className="logo-text">FH</span>
       </div>
       <ul className="nav-links">
